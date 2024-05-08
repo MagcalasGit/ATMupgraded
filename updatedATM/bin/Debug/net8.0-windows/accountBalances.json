@@ -1,0 +1,14 @@
+[
+  {
+    "AccountNumber": "123",
+    "PIN": "123",
+    "SavingsBalance": 100000.0,
+    "ChequeBalance": 100000.0
+  },
+  {
+    "AccountNumber": "010101",
+    "PIN": "0000",
+    "SavingsBalance": 100000.0,
+    "ChequeBalance": 100000.0
+  }
+]
